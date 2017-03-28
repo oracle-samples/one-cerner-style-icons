@@ -1,4 +1,4 @@
-Cerner One Style Icons are the official icons from Cerner for use in Healthcare IT solutions. These icons are not intended to be consumed directly, but through its companion repo of Terra here  https://github.com/cerner/terra-core
+One Cerner Style Icons are the official icons from Cerner for use in Healthcare IT solutions. These icons are not intended to be consumed directly, but through its companion repo of Terra here  https://github.com/cerner/terra-core
  
 The .csv file is used to identify:
 ·         the concept name 
