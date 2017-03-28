@@ -1,0 +1,11 @@
+{
+  "name": "one-cerner-style-icons",
+  "version": "1.0.0",
+  "description": "One Cerner Style Icon Repository",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerner/one-cerner-style-icons.git"
+  },
+  "author": "Cerner Corporation",
+  "license": "Apache-2.0"
+}
