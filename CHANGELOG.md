@@ -1,6 +1,10 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.2.1 - 5/25/2017
+
+* Icon Updated: src/icons/0147_circle_i_light.svg
+
 ## v1.2.0 - 5/23/2017
 
 * Icon Added: src/icons/0157_exclamation_i_lightCircleGray.svg* Icon Added: src/icons/0158_pencilSquare_a.svg
