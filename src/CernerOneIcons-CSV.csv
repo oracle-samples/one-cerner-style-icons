@@ -63,6 +63,7 @@ doNotDisturb,src/icons/0039_minus_i_heavyCircleRed.svg,,
 close,src/icons/0041_x_a.svg,themeable ,
 clear,src/icons/0041_x_a.svg,themeable ,
 incomplete,src/icons/0041_x_i_heavyCircle.svg,themeable ,
+notMet,src/icons/0041_x_i_heavyCircle.svg,themeable ,
 person,src/icons/0043_person_a.svg,themeable ,
 left,src/icons/0044_arrowLeft_a.svg,themeable ,bi-directional
 right,src/icons/0044_arrowRight_a.svg,themeable ,bi-directional
@@ -95,6 +96,7 @@ camera,src/icons/0072_camera_a.svg,themeable ,
 briefcase,src/icons/0073_briefcase_a.svg,themeable ,
 link,src/icons/0074_chain_a.svg,themeable ,bi-directional
 menu,src/icons/0075_list_a.svg,themeable ,
+list,src/icons/0075_list_a.svg,themeable ,
 checklist,src/icons/0079_checkList_a.svg,themeable ,
 unlock,src/icons/0080_padlock_open_a.svg,themeable ,bi-directional
 due,src/icons/0081_stopwatch_a.svg,themeable ,
