@@ -156,3 +156,4 @@ recurringEvent,src/icons/0153_calendarCircleArrow_a.svg,themeable ,
 separate,src/icons/0154_lineTwoArrows_a.svg,themeable ,bi-directional
 merge,src/icons/0155_connectedLinesArrow_a.svg,themeable ,bi-directional
 compose,src/icons/0158_pencilSquare_a.svg,themeable ,
+unread,src/icons/0159_eye_i_slash.svg,themeable ,
