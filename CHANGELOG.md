@@ -1,6 +1,10 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.2.4 - 7/24/2017
+
+* Icon Added: src/icons/0160_arrowLeftarrowRight_i.svg
+
 ## v1.2.3 - 7/21/2017
 
 * Icon Added: src/icons/0159_eye_i_slash.svg
