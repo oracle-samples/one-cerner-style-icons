@@ -1,6 +1,12 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.3.0 - 8/02/2017
+
+* Icon Added: src/icons/0161_microphone_a.svg
+* Icon Added: src/icons/0161_microphone_a_slash.svg
+* Icon Added: src/icons/0150_videoCamera_a_slash.svg
+
 ## v1.2.4 - 7/24/2017
 
 * Icon Added: src/icons/0160_arrowLeftarrowRight_i.svg
