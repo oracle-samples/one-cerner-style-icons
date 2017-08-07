@@ -137,6 +137,7 @@ zoomIn,src/icons/0135_magnifyingGlassPlus_a.svg,themeable ,
 diamond,src/icons/0136_diamond_i_purple.svg,,
 envelope,src/icons/0137_envelope_a.svg,themeable ,
 allergy,src/icons/0138_circleLines_a.svg,themeable ,
+phoneDown,src/icons/0139_phoneDown_a.svg,themeable ,
 phone,src/icons/0139_phone_a.svg,themeable ,
 panelLeft,src/icons/0140_rectangleLeftArrow_a.svg,themeable ,bi-directional
 panelRight,src/icons/0141_rectangleRightArrow_a.svg,themeable ,bi-directional

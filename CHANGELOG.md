@@ -1,6 +1,10 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.3.1 - 8/03/2017
+
+* Icon Added: src/icons/0139_phoneDown_a.svg
+
 ## v1.3.0 - 8/02/2017
 
 * Icon Added: src/icons/0161_microphone_a.svg
