@@ -1,6 +1,12 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.4.1 - 8/30/2017
+
+* Icon Added: src/icons/0162_phoneArrowRight_i.svg
+* Icon Added: src/icons/0163_phoneArrowLeft_i.svg
+* Icon Added: src/icons/0164_phoneDownCurvedArrow_i.svg
+
 ## v1.3.1 - 8/03/2017
 
 * Icon Added: src/icons/0139_phoneDown_a.svg
