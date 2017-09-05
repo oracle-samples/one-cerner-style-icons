@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.4.3 - 9/05/2017
+
+* Icon Updated: src/icons/0061_questionMark_i_diamond_light.svg
+
+
 ## v1.4.1 - 8/30/2017
 
 * Icon Added: src/icons/0162_phoneArrowRight_i.svg
