@@ -1,7 +1,7 @@
 One Cerner Style Icons Changelog
 ==========================
 
-## v1.4.4 - 9/27/2017
+## v1.5.0 - 9/27/2017
 
 * Icon Added: src/icons/0165_pinDown_t.svg 
 * Icon Added: src/icons/0165_pinDiagonal_t.svg
