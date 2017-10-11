@@ -1,6 +1,15 @@
 One Cerner Style Icons Changelog
 ==========================
 
+## v1.6.0 - 10/11/2017
+
+* New Icon Added: src/icons/0166_pause_a.svg
+* New Icon Added: src/icons/0127_bell_a_outline.svg
+	* This outlined version will be utilized as an off state for “reminders”
+* Icon Updated: src/icons/0020_curvedDoubleArrowLeft_a.svg
+	* Accessibility concerns with previous icon version. New icon version includes more space between the arrow shape and the second arrow.
+
+
 ## v1.5.0 - 9/27/2017
 
 * Icon Added: src/icons/0165_pinDown_t.svg 

@@ -125,6 +125,7 @@ min,src/icons/0124_arrowDown_i.svg,,
 abnormal,src/icons/0125_squiggle_i_lightDiamond.svg,,
 leftPane,src/icons/0126_squareLeftFill_a.svg,themeable ,bi-directional
 flowsheet,src/icons/0126_squareLeftFill_a.svg,themeable ,bi-directional
+notificationOff,src/icons/0127_bell_a_outline.svg,themeable ,
 notification,src/icons/0127_bell_a.svg,themeable ,
 last,src/icons/0128_lineChevronRight_a.svg,themeable ,bi-directional
 device,src/icons/0129_device_a.svg,themeable ,
@@ -167,3 +168,4 @@ incomingCall,src/icons/0163_phoneArrowLeft_i.svg,themeable ,
 missedCall,src/icons/0164_phoneDownCurvedArrow_i.svg,themeable ,
 pinDown,src/icons/0165_pinDown_t.svg,themeable ,
 pinDiagonal,src/icons/0165_pinDiagonal_t.svg,themeable ,
+pause,src/icons/0166_pause_a.svg,themeable ,
