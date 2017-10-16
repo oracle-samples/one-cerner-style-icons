@@ -4,11 +4,24 @@ One Cerner Style Icons Changelog
 ## v1.6.0 - 10/11/2017
 
 * New Icon Added: src/icons/0166_pause_a.svg
-* New Icon Added: src/icons/0127_bell_a_outline.svg
+* New Icon Added: src/icons/0127_bell_a_light_off.svg
 	* This outlined version will be utilized as an off state for “reminders”
-* Icon Updated: src/icons/0020_curvedDoubleArrowLeft_a.svg
-	* Accessibility concerns with previous icon version. New icon version includes more space between the arrow shape and the second arrow.
 
+* Icon Updated: src/icons/0020_curvedDoubleArrowLeft_a.svg
+	* Accessibility concerns with previous icon version. New icon version includes 
+more space between the arrow shape and the second arrow.
+
+* Icon Name Updated: src/icons/0127_bell_a_heavy_on.svg
+	* Updated naming convention to reflect toggle state documentation
+
+* Icon Name Updated: src/icons/0056_star_a_light.svg
+	* Changed icon variant from “outline” to “light”
+
+* Icon Name Updated: src/icons/0165_pinDown_a.svg
+	* changed icon type from “t” to “a”
+
+* Icon Name Updated: src/icons/0165_pinDiagonal_a.svg
+	* changed icon type from “t” to “a”
 
 ## v1.5.0 - 9/27/2017
 
