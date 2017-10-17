@@ -14,13 +14,17 @@ more space between the arrow shape and the second arrow.
 * Icon Name Updated: src/icons/0127_bell_a_heavy_on.svg
 	* Updated naming convention to reflect toggle state documentation
 
-* Icon Name Updated: src/icons/0056_star_a_light.svg
+* Icon Name Updated: src/icons/0056_star_a_light_off.svg
 	* Changed icon variant from “outline” to “light”
+	* Changed icon state to off
 
-* Icon Name Updated: src/icons/0165_pinDown_a.svg
+* Icon Name Updated: src/icons/0056_star_a_on.svg
+	* Changed icon state to on
+
+* Icon Name Updated: src/icons/0165_pinDown_a_on.svg
 	* changed icon type from “t” to “a”
 
-* Icon Name Updated: src/icons/0165_pinDiagonal_a.svg
+* Icon Name Updated: src/icons/0165_pinDiagonal_a_off.svg
 	* changed icon type from “t” to “a”
 
 ## v1.5.0 - 9/27/2017
