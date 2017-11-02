@@ -1,5 +1,12 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.7.0 - 11/2/2017
+
+* New Icon Added: src/icons/0167_speakerCurvedLines_a.svg
+	* Icon will be used to represent the concept of audio.
+* New Icon Added: src/icons/0061_questionMark_i_lightCircle.svg
+	* Icon will be used to represent when a question has been unanswered within Ontology Mapping.
+* Icon Alias Update: Added the additional alias, featuredOutline, to 0056_star_a_light_off.svg
 
 ## v1.6.0 - 10/11/2017
 
