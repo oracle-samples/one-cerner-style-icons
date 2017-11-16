@@ -1,5 +1,9 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.8.0 - 11/16/2017
+
+* New Icon Added:0168_boxArrowDiagonal_a.svg
+	* Icon will be used to represent the concept of an External Link
 ## v1.7.0 - 11/2/2017
 
 * New Icon Added: src/icons/0167_speakerCurvedLines_a.svg
