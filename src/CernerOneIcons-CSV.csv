@@ -111,7 +111,7 @@ knurling,src/icons/0112_knurling_a.svg,themeable ,
 addPerson,src/icons/0113_plusPerson_a.svg,themeable ,
 upload,src/icons/0114_lineArrowUp_a.svg,themeable ,
 download,src/icons/0115_lineArrowDown_a.svg,themeable ,
-cancel,src/icons/0116_cancel.svg,themeable ,
+cancel,src/icons/0116_cancel_a.svg,themeable ,
 maximize,src/icons/0117_arrowsOut_a.svg,themeable ,
 minimize,src/icons/0118_arrowsIn_a.svg,themeable ,
 reply,src/icons/0119_curvedArrowLeft_a.svg,themeable ,bi-directional
