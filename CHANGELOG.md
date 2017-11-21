@@ -1,10 +1,13 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.8.0 - 11/21/2017
+
+* New Icon Added - 0168
+	* The icon will be used to represent an external link. Selecting the icon will take the user outside of their current application/solution.
 ## v1.7.1 - 11/20/2017
 
 * Minor change to icon file name: src/icons/0116_cancel_a.svg
 	* The icon previously did not have a usage in the file name. Included icon usage for action
-	
 ## v1.7.0 - 11/2/2017
 
 * New Icon Added: src/icons/0167_speakerCurvedLines_a.svg
