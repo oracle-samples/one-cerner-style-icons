@@ -1,5 +1,11 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.9.0 - 1/5/2018
+
+* New Icon Added - 0169
+	* The icon will be used to represent a bed has been requested for a patient
+* New Icon Added - 0170
+	* The icon will be used to represent a bed has been assigned to a patient
 ## v1.8.0 - 11/21/2017
 
 * New Icon Added - 0168
