@@ -1,5 +1,9 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.10.0 - 1/8/2018
+
+* New Icon Variant Added - 0039
+	* Added a default black version of icon 0039, which will be used as a 404 error glyph. 
 ## v1.9.0 - 1/5/2018
 
 * New Icon Added - 0169
