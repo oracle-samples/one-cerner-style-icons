@@ -1,5 +1,18 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.11.0 - 1/8/2018
+* New Icon Added - 0171
+	* Used within Cerner Care Team Assignments to indicate a patient's discharge has been completed
+* New Icon Added - 0172
+	* Used within Cerner Care Team Assignments to indicate a patient is past due on their discharge
+* New Icon Added - 0173
+	* Used within Cerner Care Team Assignments to indicate a patient's discharge is coming due
+* New Icon Added - 0174 
+	* flipHorizontal - used within Media Gallery component to flip image horizontally
+	* flipVertical - used within Media Gallery  omponent to flip image vertically
+* New Icon Added - 0175
+	* rotateRight - used within Media Gallery component to rotate an image right
+	* rotateLeft - used within Media Gallery component o rotate an image left
 ## v1.10.0 - 1/8/2018
 
 * New Icon Variant Added - 0039
@@ -9,7 +22,7 @@ One Cerner Style Icons Changelog
 * New Icon Added - 0169
 	* The icon will be used to represent a bed has been requested for a patient
 * New Icon Added - 0170
-	* The icon will be used to represent a bed has been assigned to a patient
+	* The icon will be used to represent a bed has been assigned to a patient	
 ## v1.8.0 - 11/21/2017
 
 * New Icon Added - 0168
