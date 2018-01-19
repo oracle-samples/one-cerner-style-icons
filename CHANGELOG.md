@@ -2,6 +2,8 @@ One Cerner Style Icons Changelog
 ==========================
 ## v1.11.0 - 1/8/2018
 
+* Updated icons 0124
+	* Included more space between arrows and diamond container shape for clarity. 
 * New Alias added for icon - 0037_exclamation_i_lightCircleGray.svg
 	* Icon will be used to represent Moderate in the Risk indicator family
 * New Icon Added - 0003_check_i_lightCircle.svg
