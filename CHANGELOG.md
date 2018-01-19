@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
 ==========================
 ## v1.11.0 - 1/8/2018
+
+* New Alias added for icon - 0037_exclamation_i_lightCircleGray.svg
+	* Icon will be used to represent Moderate in the Risk indicator family
+* New Icon Added - 0003_check_i_lightCircle.svg
+	* Icon will be used to represent noRisk wihtin Risk indicator family.
 * New Icon Added - 0171
 	* Used within Cerner Care Team Assignments to indicate a patient's discharge has been completed
 * New Icon Added - 0172
