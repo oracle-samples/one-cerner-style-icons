@@ -6,6 +6,10 @@ One Cerner Style Icons Changelog
 	* Icon will be used to represent Moderate in the Risk indicator family
 * New Icon Added - 0003_check_i_lightCircle.svg
 	* Icon will be used to represent noRisk wihtin Risk indicator family.
+* New Icon Added - 0169
+	* Used within Transfer Center to indicate a bed has been requested.
+* New Icon Added - 0170
+	* Used within Transfer Center to indicate a bed assignment has been made. 
 * New Icon Added - 0171
 	* Used within Cerner Care Team Assignments to indicate a patient's discharge has been completed
 * New Icon Added - 0172
