@@ -1,5 +1,9 @@
 One Cerner Style Icons Changelog
 ==========================
+## v1.12.0 - 1/8/2018
+* Swapped icon numbers 0172 and 0173
+	* Icon 0172 now accurately reflects the status of dischargeComingDue
+	* Icon 0172 now accurately reflects the status of dischargeOverDue
 ## v1.11.0 - 1/8/2018
 <<<<<<< HEAD
 
