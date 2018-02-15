@@ -1,6 +1,8 @@
 One Cerner Style Icons Changelog
 ==========================
 ## v1.13.0 - 2/12/2018
+* New icon added - 0176_stopwatch_pause_i.svg
+	* The icon will be used in Transfer Center to indicate that a transfer request is on hold
 * New icon added - 0037_exclamation_i_heavyDiamondWhite.svg
 	* The icon will display on a selected row to improve visibility within Population Health Management
 * New icon added - 0124_statusArrowUp_i_lightDiamondWhite.svg
