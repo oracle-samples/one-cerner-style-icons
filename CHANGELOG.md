@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
-==========================
+
+## v1.13.1 - 2/20/2018
+
+* Correct extension nameing bug in the csv
+
 ## v1.13.0 - 2/12/2018
+
 * New icon added - 0176_stopwatch_pause_i.svg
 	* The icon will be used in Transfer Center to indicate that a transfer request is on hold
 * New icon added - 0037_exclamation_i_heavyDiamondWhite.svg
@@ -8,63 +13,46 @@ One Cerner Style Icons Changelog
 * New icon added - 0124_statusArrowUp_i_lightDiamondWhite.svg
 	* The icon will display on a selected row to improve visibility within Population Health Management
 ## v1.12.0 - 1/8/2018
+
 * Swapped icon numbers 0172 and 0173
 	* Icon 0172 now accurately reflects the status of dischargeComingDue
 	* Icon 0172 now accurately reflects the status of dischargeOverDue
-## v1.11.0 - 1/8/2018
-<<<<<<< HEAD
 
-* New Alias added for icon - 0037_exclamation_i_lightCircleGray.svg
-	* Icon will be used to represent Moderate in the Risk indicator family
-* New Icon Added - 0003_check_i_lightCircle.svg
-	* Icon will be used to represent noRisk wihtin Risk indicator family.
-* New Icon Added - 0169
-	* Used within Transfer Center to indicate a bed has been requested.
-* New Icon Added - 0170
-	* Used within Transfer Center to indicate a bed assignment has been made. 
-* New Icon Added - 0171
-	* Used within Cerner Care Team Assignments to indicate a patient's discharge has been completed
-* New Icon Added - 0172
-	* Used within Cerner Care Team Assignments to indicate a patient is past due on their discharge
-* New Icon Added - 0173
-	* Used within Cerner Care Team Assignments to indicate a patient's discharge is coming due
-* New Icon Added - 0174 
-	* flipHorizontal - used within Media Gallery component to flip image horizontally
-	* flipVertical - used within Media Gallery  omponent to flip image vertically
-* New Icon Added - 0175
-	* rotateRight - used within Media Gallery component to rotate an image right
-	* rotateLeft - used within Media Gallery component o rotate an image left
-=======
+## v1.11.0 - 1/8/2018
 
 * Updated icons 0124
-	* Included more space between arrows and diamond container shape for clarity. 
+	* Included more space between arrows and diamond container shape for clarity.
 * New Alias added for icon - 0037_exclamation_i_lightCircleGray.svg
 	* Icon will be used to represent Moderate in the Risk indicator family
 * New Icon Added - 0003_check_i_lightCircle.svg
 	* Icon will be used to represent noRisk wihtin Risk indicator family.
+	* New Icon Added - 0169
+	* Used within Transfer Center to indicate a bed has been requested.
+* New Icon Added - 0170
+	* Used within Transfer Center to indicate a bed assignment has been made.
 * New Icon Added - 0171
 	* Used within Cerner Care Team Assignments to indicate a patient's discharge has been completed
 * New Icon Added - 0172
 	* Used within Cerner Care Team Assignments to indicate a patient is past due on their discharge
 * New Icon Added - 0173
 	* Used within Cerner Care Team Assignments to indicate a patient's discharge is coming due
-* New Icon Added - 0174 
+* New Icon Added - 0174
 	* flipHorizontal - used within Media Gallery component to flip image horizontally
 	* flipVertical - used within Media Gallery  omponent to flip image vertically
 * New Icon Added - 0175
 	* rotateRight - used within Media Gallery component to rotate an image right
 	* rotateLeft - used within Media Gallery component o rotate an image left
->>>>>>> origin/1/15/18
+
 ## v1.10.0 - 1/8/2018
 
 * New Icon Variant Added - 0039
-	* Added a default black version of icon 0039, which will be used as a 404 error glyph. 
+	* Added a default black version of icon 0039, which will be used as a 404 error glyph.
 ## v1.9.0 - 1/5/2018
 
 * New Icon Added - 0169
 	* The icon will be used to represent a bed has been requested for a patient
 * New Icon Added - 0170
-	* The icon will be used to represent a bed has been assigned to a patient	
+	* The icon will be used to represent a bed has been assigned to a patient
 ## v1.8.0 - 11/21/2017
 
 * New Icon Added - 0168
@@ -88,7 +76,7 @@ One Cerner Style Icons Changelog
 	* This outlined version will be utilized as an off state for “reminders”
 
 * Icon Updated: src/icons/0020_curvedDoubleArrowLeft_a.svg
-	* Accessibility concerns with previous icon version. New icon version includes 
+	* Accessibility concerns with previous icon version. New icon version includes
 more space between the arrow shape and the second arrow.
 
 * Icon Name Updated: src/icons/0127_bell_a_heavy_on.svg
@@ -109,7 +97,7 @@ more space between the arrow shape and the second arrow.
 
 ## v1.5.0 - 9/27/2017
 
-* Icon Added: src/icons/0165_pinDown_t.svg 
+* Icon Added: src/icons/0165_pinDown_t.svg
 * Icon Added: src/icons/0165_pinDiagonal_t.svg
 
 ## v1.4.3 - 9/05/2017
