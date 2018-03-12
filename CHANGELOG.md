@@ -1,6 +1,17 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.14.0 - 3/12/2018
+
+* Added 'rollup' icon when an action header has many different icons and either has been pulled to a smaller responsive size or has too many icons for the space - they are all rolled up into this icon.
+	* srsc/icons/0036_ellipsesVertical_a.svg
+* Adding icon to hide items within a workspace
+	* src/icons/0159_eye_i.svg
+* Used to fit component to width
+	* src/icons/0177_arrowsLeftRightLines_a.svg
+* Used to fit component to scale
+	* src/icons/0178_arrowsUpDownRightLeftLines_a.svg
+
 ## v1.13.1 - 2/20/2018
 
 * Correct extension nameing bug in the csv
