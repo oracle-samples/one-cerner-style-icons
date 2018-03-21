@@ -1,6 +1,14 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.15.0 - 3/12/2018
+
+* Added 'drugDrug', to be used in the context of a specific orderable, on a list of recommended (or saved) orders.
+	* src/icons/0179_pill_exclamation_i_heavyTriangleYellow.svg	
+
+* Added 'secondaryProvider', units have a primary caregiver assigned who is responsible for the majority of care. Frequently they will also have a secondary caregiver assigned to them. In our assignment application, we allow the user to make both of these assignments.
+	* src/icons/0180_people_a_light.svg	
+	
 ## v1.14.0 - 3/12/2018
 
 * Added 'rollup' icon when an action header has many different icons and either has been pulled to a smaller responsive size or has too many icons for the space - they are all rolled up into this icon.
@@ -24,6 +32,7 @@ One Cerner Style Icons Changelog
 	* The icon will display on a selected row to improve visibility within Population Health Management
 * New icon added - 0124_statusArrowUp_i_lightDiamondWhite.svg
 	* The icon will display on a selected row to improve visibility within Population Health Management
+
 ## v1.12.0 - 1/8/2018
 
 * Swapped icon numbers 0172 and 0173
@@ -59,20 +68,24 @@ One Cerner Style Icons Changelog
 
 * New Icon Variant Added - 0039
 	* Added a default black version of icon 0039, which will be used as a 404 error glyph.
+
 ## v1.9.0 - 1/5/2018
 
 * New Icon Added - 0169
 	* The icon will be used to represent a bed has been requested for a patient
 * New Icon Added - 0170
 	* The icon will be used to represent a bed has been assigned to a patient
+
 ## v1.8.0 - 11/21/2017
 
 * New Icon Added - 0168
 	* The icon will be used to represent an external link. Selecting the icon will take the user outside of their current application/solution.
+
 ## v1.7.1 - 11/20/2017
 
 * Minor change to icon file name: src/icons/0116_cancel_a.svg
 	* The icon previously did not have a usage in the file name. Included icon usage for action
+
 ## v1.7.0 - 11/2/2017
 
 * New Icon Added: src/icons/0167_speakerCurvedLines_a.svg
@@ -115,7 +128,6 @@ more space between the arrow shape and the second arrow.
 ## v1.4.3 - 9/05/2017
 
 * Icon Updated: src/icons/0061_questionMark_i_diamond_light.svg
-
 
 ## v1.4.1 - 8/30/2017
 
