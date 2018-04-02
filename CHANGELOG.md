@@ -1,6 +1,10 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.16.0 - 4/2/2018
+
+* Added 'incomplete_inverse, to be used in the context of a selected table row. 
+
 ## v1.15.0 - 3/12/2018
 
 * Added 'drugDrug', to be used in the context of a specific orderable, on a list of recommended (or saved) orders.
