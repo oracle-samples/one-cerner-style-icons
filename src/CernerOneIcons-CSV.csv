@@ -69,6 +69,7 @@ close,src/icons/0041_x_a.svg,themeable ,
 clear,src/icons/0041_x_a.svg,themeable ,
 incomplete,src/icons/0041_x_i_heavyCircle.svg,themeable ,
 notMet,src/icons/0041_x_i_heavyCircle.svg,themeable ,
+incomplete_inverse,src/icons/0041_x_i_heavyCircleWhite.svg,,
 person,src/icons/0043_person_a.svg,themeable ,
 left,src/icons/0044_arrowLeft_a.svg,themeable ,bi-directional
 right,src/icons/0044_arrowRight_a.svg,themeable ,bi-directional
@@ -194,3 +195,4 @@ fitWidth,src/icons/0177_arrowsLeftRightLines_a.svg,themeable ,
 fitScale,src/icons/0178_arrowsUpDownRightLeftLines_a.svg,themeable ,
 drugDrug,src/icons/0179_pill_exclamation_i_heavyTriangleYellow.svg,,
 secondaryProvider,src/icons/0180_people_a_light.svg,themeable ,
+partiallyMet,src/icons/0181_halfCircle_i.svg,themeable ,bi-directional

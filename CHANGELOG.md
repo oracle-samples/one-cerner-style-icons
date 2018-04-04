@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.16.0 - 4/2/2018
+
+* Added 'incomplete_inverse, to be used in the context of a selected table row. 
+* Added 'partiallyMet', where insurance has indicated that they will cover some of the visit, but not all of it. This will represent a state between the current two icons: Met, Not Met.
+
 ## v1.15.0 - 3/12/2018
 
 * Added 'drugDrug', to be used in the context of a specific orderable, on a list of recommended (or saved) orders.
