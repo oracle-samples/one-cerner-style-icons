@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.16.1 - 4/12/2018
+
+* Swapped icons: flipHorizontal and flipVertical to accurately reflect icon use. 
+	* flipVertical becomes 0174_twoTrianglesRight_a.svg
+	* flipHorizontal becomes 0174_twoTrianglesUp_a.svg
 ## v1.16.0 - 4/2/2018
 
 * Added 'incomplete_inverse, to be used in the context of a selected table row. 
