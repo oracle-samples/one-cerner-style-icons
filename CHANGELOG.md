@@ -1,7 +1,7 @@
 One Cerner Style Icons Changelog
 =========
 
-## v1.17.0 - 5/21/2018
+## v1.17.0 - 5/24/2018
 * Non-themable Terra icons had several legibility issues and so a "Low Light" version was needed. Below are the added icons in the low light color palette. 
 	* success_low_light
 	* success_inverse_low_light
@@ -48,6 +48,22 @@ One Cerner Style Icons Changelog
 	* triangle_symbol
 	* triangleDown_symbol
 	* x_symbol
+* Updated exterior stroke weight on 'light outline' icons
+	* noRisk
+	* noRisk_low_light
+	* moderate
+	* moderate_low_light
+	* high
+	* high_low_light
+	* high_inverse
+	* high_inverse_low_light
+	* low
+	* low_low_light
+	* abnormal
+	* abnormal_low_light
+	* partiallyMet
+	* lowRisk
+	* lowRisk_low_light
  
 ## v1.16.1 - 4/12/2018
 
