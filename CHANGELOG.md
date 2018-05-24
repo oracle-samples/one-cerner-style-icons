@@ -1,6 +1,70 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.17.0 - 5/24/2018
+* Non-themable Terra icons had several legibility issues and so a "Low Light" version was needed. Below are the added icons in the low light color palette. 
+	* success_low_light
+	* success_inverse_low_light
+	* noRisk_low_light
+	* scheduled_low_light
+	* alert_low_light
+	* warning_low_light
+	* moderate_low_light
+	* critical_low_light
+	* critical_inverse_low_light
+	* information_low_light
+	* information_inverse_low_light
+	* error_low_light
+	* incomplete_low_light
+	* incomplete_inverse_low_light
+	* help_low_light
+	* help_inverse_low_light
+	* unexpected_low_light
+	* dueSoon_low_light
+	* overDue_low_light
+	* high_low_light
+	* high_inverse_low_light
+	* low_low_light
+	* noRisk_low_light
+	* abnormal_low_light
+	* deviceCheck_low_light
+	* deviceAlert_low_light
+	* diamond_low_light
+	* pharmacyReject_low_light
+	* bedAssigned_low_light
+	* dischargeComplete_low_light
+	* dischargeComingDue_low_light
+	* dischargeOverDue_low_light
+	* drugDrug_low_light
+* Added new assets for Symbols, that will be used for the purpose of graphing libraries, like Carbon.
+	* circle_symbol
+	* diamond_symbol
+	* plus_symbol
+	* rectangle_symbol
+	* square_symbol
+	* teardrop_symbol
+	* teardropUp_symbol
+	* thinDiamond_symbol
+	* triangle_symbol
+	* triangleDown_symbol
+	* x_symbol
+* Updated exterior stroke weight on 'light outline' icons
+	* noRisk
+	* noRisk_low_light
+	* moderate
+	* moderate_low_light
+	* high
+	* high_low_light
+	* high_inverse
+	* high_inverse_low_light
+	* low
+	* low_low_light
+	* abnormal
+	* abnormal_low_light
+	* partiallyMet
+	* lowRisk
+	* lowRisk_low_light
+ 
 ## v1.16.1 - 4/12/2018
 
 * Swapped icons: flipHorizontal and flipVertical to accurately reflect icon use. 

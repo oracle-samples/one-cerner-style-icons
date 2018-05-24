@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path id="cancel" fill="#F94E4E" d="M36,22c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S42.6,22,36,22z M27,34c0-5,4-9,9-9
+	c1.9,0,3.7,0.6,5.2,1.7L28.7,39.2C27.6,37.7,27,35.9,27,34z M36,43c-1.9,0-3.7-0.6-5.2-1.7l12.5-12.5c1,1.5,1.7,3.3,1.7,5.2
+	C45,39,41,43,36,43z"/>
+<path id="mortarPestle" fill="#6F7476" d="M0.4,4.5c-0.6-0.6-0.6-1.6,0-2.2l1.1-1.1c0.6-0.6,1.6-0.6,2.2,0L15,12.6H8.6L0.4,4.5z
+	 M22.4,33.8c0-3.2,1.1-6.1,2.9-8.4H23v3h-3v-3h-3v-3h3v-3h3v3h3v2.2c2.5-2.6,6-4.3,9.9-4.3V15H7.1v7.6c0,6.3,5.1,11.4,11.4,11.4h3.9
+	C22.4,33.9,22.4,33.9,22.4,33.8z"/>
+</svg>
