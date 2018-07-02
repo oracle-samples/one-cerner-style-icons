@@ -1,8 +1,8 @@
 One Cerner Style Icons Changelog
 =========
 
-## v1.18.0 - 6/20/2018
-* New Icon Added for: Simulation - 0182_monitor_a.svg
-	* The icon will be used within Learning Framework to indicate content type as Simulation.
-* New Icon Added for: Half Star Rating - 0056_star_a_half.svg
-	* The icon will be used within Home Care Analytics for star rating system
+## v1.19.0 - 7/2/2018
+* New Icon Added for: Expand Row - 0183_arrowsInTwoLines_a.svg
+	* new terra component for treeview has included funcitonality to expand or collapse the hierarchy (show or hide all children)... icons are needed to allow this functionality
+* New Icon Added for: Collapse Row - 0184_arrowsOutTwoLines_a.svg
+	* new terra component for treeview has included funcitonality to expand or collapse the hierarchy (show or hide all children)... icons are needed to allow this functionality
