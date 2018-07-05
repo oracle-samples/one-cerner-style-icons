@@ -6,3 +6,5 @@ One Cerner Style Icons Changelog
 	* new terra component for treeview has included funcitonality to expand or collapse the hierarchy (show or hide all children)... icons are needed to allow this functionality
 * New Icon Added for: Collapse Row - 0184_arrowsOutTwoLines_a.svg
 	* new terra component for treeview has included funcitonality to expand or collapse the hierarchy (show or hide all children)... icons are needed to allow this functionality
+* New Icon Added for: Back and Forward in time - doubleChevronLeft & doubleChevronRight
+	* In the Timeline Framework, we have a navigation concept using the chevron icons. A single chevron moves the view in that direction by one column, and a double chevron moves the view by a larger segment. 

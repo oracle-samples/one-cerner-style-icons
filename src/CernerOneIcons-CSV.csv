@@ -234,6 +234,8 @@ partiallyMet,src/icons/0181_halfCircle_i.svg,themeable ,bi-directional
 simulation,src/icons/0182_monitor_a.svg,themeable ,
 collapseRow,src/icons/0183_arrowsInTwoLines_a.svg,themeable ,
 expandRow,src/icons/0184_arrowsOutTwoLines_a.svg,themeable ,
+doubleChevronLeft,src/icons/0185_twoChevronsLeft_a.svg,themeable ,
+doubleChevronRight,src/icons/0185_twoChevronsRight_a.svg,themeable ,
 circle_symbol,src/icons/S_0001_circle.svg,themeable ,
 diamond_symbol,src/icons/S_0002_diamond.svg,themeable ,
 plus_symbol,src/icons/S_0003_plus.svg,themeable ,
