@@ -1,7 +1,7 @@
 One Cerner Style Icons Changelog
 =========
 
-## v1.19.1 - 7/6/2018
+## v1.19.1 - 7/9/2018
 * Update file paths in CernerOneIcons-CSV.csv
 * Added changlog entries for prior versions
 
