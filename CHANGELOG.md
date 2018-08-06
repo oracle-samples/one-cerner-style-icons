@@ -1,6 +1,9 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.19.1 - 8/6/2018
+* Minor update to 0179
+	* Knocked out exlamation from triangle to fix "all gray" triangle.
 ## v1.19.0 - 7/2/2018
 * New Icon Added for: Expand Row - 0183_arrowsInTwoLines_a.svg
 	* new terra component for treeview has included funcitonality to expand or collapse the hierarchy (show or hide all children)... icons are needed to allow this functionality
