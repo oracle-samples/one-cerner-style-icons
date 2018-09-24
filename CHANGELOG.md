@@ -1,6 +1,26 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.19.2 - 9/24/2018
+* Reformat Icon Coloring - the following icons have been re-exporting with Presentation Attributes
+	 * src/icons/0003_check_i_lightCircle.svg
+	 * src/icons/0041_x_i_heavyCircleWhite.svg
+	 * src/icons/0061_questionMark_i_diamond_light.svg
+	 * src/icons/0124_arrowDown_i_lightCircle.svg
+	 * src/icons/0124_arrowDown_i_lightCircle.svg
+	 * src/icons/0124_statusArrowDown_i_lightDiamond.svg
+	 * src/icons/0124_statusArrowUp_i_lightDiamond.svg
+	 * src/icons/0124_statusArrowUp_i_lightDiamondWhite.svg
+	 * src/icons/0125_squiggle_i_lightDiamond.svg
+	 * src/icons/0172_exclamationDoorOpen_i_heavyTriangleYellow.svg
+	 * src/icons/0173_exclamationDoorOpen_i_heavyTriangleRed.svg
+	 * src/icons/LL_0003_check_i_lightCircle.svg
+	 * src/icons/LL_0037_exclamation_i_lightCircleGray.svg
+	 * src/icons/LL_0061_questionMark_i_diamond_light.svg
+	 * src/icons/LL_0124_arrowDown_i_lightCircle.svg
+	 * src/icons/LL_0124_statusArrowDown_i_lightDiamond.svg
+	 * src/icons/LL_0124_statusArrowUp_i_lightDiamond.svg
+	 * src/icons/LL_0124_statusArrowUp_i_lightDiamondWhite.svg
 ## v1.19.1 - 8/6/2018
 * Minor update to 0179
 	* Knocked out exlamation from triangle to fix "all gray" triangle.
