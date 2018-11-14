@@ -1,6 +1,14 @@
 One Cerner Style Icons Changelog
 =========
 
+## v.1.20.0 - 11/14/2018
+* 5 New Icons Added for: CE Marking/Regulatory symbols.
+	* catalogueNumber -  indicates the manufacturer’s catalogue number so that the medical device can be identified (would only be shown on the CE Marking “about” window)
+	* caution - indicates the need for the user to consult the instructions for use for important cautionary information (would specifically be tied to help & reference page labelling)
+	* consultInstructionsForUse - Used to indicate that the location of “electronic instructions for use” (eIFU)
+	* dateOfManufacture - indicates the date when the medical device was manufactured (would only be shown on the CE Marking “about” window)
+	* manufacturer - Indicates the medical device manufacturer (would only be shown on the CE Marking “about” window)
+	
 ## v1.19.2 - 9/24/2018
 * Reformat Icon Coloring - the following icons have been re-exporting with Presentation Attributes
 	 * src/icons/0003_check_i_lightCircle.svg
