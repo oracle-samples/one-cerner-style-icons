@@ -1,6 +1,21 @@
 One Cerner Style Icons Changelog
 =========
 
+## v.1.21.0 - 1/29/2019
+* Redesigned icon for: SortAscending - src/icons/0028_arrowDownFourLinesUp_a.svg
+	* Modified design to be more consistent with standard sorting icons. 
+	* Removed arrow. 
+* Redesigned icon for: SortDescending - src/icons/0029_arrowDownFourLinesDown_a.svg
+		* Modified design to be more consistent with standard sorting icons. 
+		* Removed arrow.
+* Replaced 'Reload' icon with 'Undo' - src/icons/0152_circleArrowLeft_a.svg
+	* Having a reload and refresh icon was redundant.
+	* Replaced icon with the concept of 'Restore'. Functions similarly to 'Undo'
+* New Icon Added: Redo - 0015_circleArrowRight_a.svg
+	* This icon will be used for the concept of 'Redo'
+* New Symbol Icon Added: src/icons/S_0012_circleLines.svg
+	* Advanced Interop will use the icon to represent differentiate internal (solid fill) vs. external (hashed fill) encounters in both the Gantt chart and a corresponding list view.
+	 
 ## v.1.20.0 - 11/14/2018
 * 5 New Icons Added for: CE Marking/Regulatory symbols.
 	* catalogueNumber -  indicates the manufacturer’s catalogue number so that the medical device can be identified (would only be shown on the CE Marking “about” window)
