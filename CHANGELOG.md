@@ -1,6 +1,10 @@
 One Cerner Style Icons Changelog
 =========
 
+## v.1.21.1 - 4/04/2019
+* Renamed src file for 'Undo': src/icons/0152_circleArrowLeft_a.svg
+* Added 'Deprecating' column
+	* Added 'Reload' icon back in.
 ## v.1.21.0 - 1/29/2019
 * Redesigned icon for: SortAscending - src/icons/0028_arrowDownFourLinesUp_a.svg
 	* Modified design to be more consistent with standard sorting icons. 
