@@ -1,6 +1,13 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.22.0 - 5/17/2019
+* 2 New Icons Added
+	* Instance Tracked - intended use for instance tracked items within the pick list 
+	* Extensions - serves as a rollup for application extensions that do no fit within app header
+* Updated red color on 0037_exclamation_i_heavyDiamondRed.svg
+* Updated id on S_0001_circle.svg
+
 ## v.1.21.1 - 4/04/2019
 * Renamed src file for 'Undo': src/icons/0152_circleArrowLeft_a.svg
 * Added 'Deprecating' column
