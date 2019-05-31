@@ -1,9 +1,11 @@
 One Cerner Style Icons Changelog
 =========
 
-## v.1.23.0 - 5/30/2019
-* 1 New Icon Added
-	* Do Not Disturb - Allow users to set Do Not Disturb ad-hoc (short term, frequent change). Used within CareAware Connect
+## v.1.23.0 - 5/31/2019
+* 2 New Icon Added
+	* Notification Disabled - Allows users to turn notifications off
+	
+	* Do Not Disturb - Allows users to set Do Not Disturb ad-hoc (short term, frequent change). Used within CareAware Connect 
 
 ## v1.22.0 - 5/17/2019
 * 2 New Icons Added
