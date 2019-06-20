@@ -1,6 +1,11 @@
 One Cerner Style Icons Changelog
 =========
 
+## v1.24.0 - 6/20/2019
+* 2 New Icons Added for Regulatory Symbols
+	* CE Marking - indicates conformity with health, safety, and environmental protection standards for products sold within the European Economic Area
+	* EC | REP - indicates conformity with health, safety, and environmental protection standards for products sold within the European Economic Area
+	
 ## v.1.23.0 - 5/31/2019
 * 2 New Icon Added
 	* Notification Disabled - Allows users to turn notifications off
