@@ -2,7 +2,7 @@ One Cerner Style Icons Changelog
 =========
 
 CE-Marking
-## v1.24.0 - 6/20/2019
+## v1.24.0 - 6/27/2019
 * 3 New Icons Added
 	* CE Marking - indicates conformity with health, safety, and environmental protection standards for products sold within the European Economic Area
 	* EC|REP - indicates conformity with health, safety, and environmental protection standards for products sold within the European Economic Area
