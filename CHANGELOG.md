@@ -1,5 +1,11 @@
 One Cerner Style Icons Changelog
 =========
+CareAware-Connect-Theming
+## v1.25.0 - 7/2/2019
+* 3 New Icons Added
+	* New Envelope - replaces outlined mail icon in CareAware Connect to match existing icons
+	* New Star - new variation of the favorites icon for CareAware Connect
+	* Out-of-Network - indicates if available appointment slots and/or available locations are out-of-network for the patients health plan
 
 CE-Marking
 ## v1.24.0 - 6/27/2019
@@ -13,12 +19,12 @@ master
 ## v.1.23.0 - 5/31/2019
 * 2 New Icon Added
 	* Notification Disabled - Allows users to turn notifications off
-	
-	* Do Not Disturb - Allows users to set Do Not Disturb ad-hoc (short term, frequent change). Used within CareAware Connect 
+
+	* Do Not Disturb - Allows users to set Do Not Disturb ad-hoc (short term, frequent change). Used within CareAware Connect
 
 ## v1.22.0 - 5/17/2019
 * 2 New Icons Added
-	* Instance Tracked - intended use for instance tracked items within the pick list 
+	* Instance Tracked - intended use for instance tracked items within the pick list
 	* Extensions - serves as a rollup for application extensions that do no fit within app header
 * Updated red color on 0037_exclamation_i_heavyDiamondRed.svg
 * Updated id on S_0001_circle.svg
@@ -29,10 +35,10 @@ master
 	* Added 'Reload' icon back in.
 ## v.1.21.0 - 1/29/2019
 * Redesigned icon for: SortAscending - src/icons/0028_arrowDownFourLinesUp_a.svg
-	* Modified design to be more consistent with standard sorting icons. 
-	* Removed arrow. 
+	* Modified design to be more consistent with standard sorting icons.
+	* Removed arrow.
 * Redesigned icon for: SortDescending - src/icons/0029_arrowDownFourLinesDown_a.svg
-		* Modified design to be more consistent with standard sorting icons. 
+		* Modified design to be more consistent with standard sorting icons.
 		* Removed arrow.
 * Replaced 'Reload' icon with 'Undo' - src/icons/0152_circleArrowLeft_a.svg
 	* Having a reload and refresh icon was redundant.
@@ -41,7 +47,7 @@ master
 	* This icon will be used for the concept of 'Redo'
 * New Symbol Icon Added: src/icons/S_0012_circleLines.svg
 	* Advanced Interop will use the icon to represent differentiate internal (solid fill) vs. external (hashed fill) encounters in both the Gantt chart and a corresponding list view.
-	 
+
 ## v.1.20.0 - 11/14/2018
 * 5 New Icons Added for: CE Marking/Regulatory symbols.
 	* catalogueNumber -  indicates the manufacturer’s catalogue number so that the medical device can be identified (would only be shown on the CE Marking “about” window)
@@ -49,7 +55,7 @@ master
 	* consultInstructionsForUse - Used to indicate that the location of “electronic instructions for use” (eIFU)
 	* dateOfManufacture - indicates the date when the medical device was manufactured (would only be shown on the CE Marking “about” window)
 	* manufacturer - Indicates the medical device manufacturer (would only be shown on the CE Marking “about” window)
-	
+
 ## v1.19.2 - 9/24/2018
 * Reformat Icon Coloring - the following icons have been re-exporting with Presentation Attributes
 	 * src/icons/0003_check_i_lightCircle.svg
