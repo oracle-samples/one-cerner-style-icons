@@ -1,5 +1,8 @@
 One Cerner Style Icons Changelog
 =========
+## Unreleased
+* Renamed src/icons/0188_calenderX_i.svg to src/icons/0188_calendarX_i.svg to match spelling in CSV file
+
 CareAware-Connect-Theming
 ## v1.25.0 - 7/2/2019
 * 3 New Icons Added
