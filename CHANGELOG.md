@@ -1,5 +1,10 @@
 One Cerner Style Icons Changelog
 =========
+
+## v1.26.0 - 7/12/2019
+* 1 New Icon Added
+	* Pharmacy Verification - Used within MAR to indicate verification is needed from the pharmacy
+	
 ## Unreleased
 * Renamed src/icons/0188_calenderX_i.svg to src/icons/0188_calendarX_i.svg to match spelling in CSV file
 
