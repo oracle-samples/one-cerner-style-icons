@@ -1,10 +1,14 @@
 One Cerner Style Icons Changelog
 =========
+## v1.27.0 - 7/29/2019
+* 1 New Icon added
+	* Fit to Height - Used within Enterprise Document Management Viewer to allow users to fit open PDF(s) to the height of the page.
+	* 11 new symbol icons - For use in Carbon graphing library to represent unverified data.
 
 ## v1.26.0 - 7/12/2019
 * 1 New Icon Added
 	* Pharmacy Verification - Used within MAR to indicate verification is needed from the pharmacy
-	
+
 ## Unreleased
 * Renamed src/icons/0188_calenderX_i.svg to src/icons/0188_calendarX_i.svg to match spelling in CSV file
 
