@@ -1,5 +1,8 @@
 One Cerner Style Icons Changelog
 =========
+## v1.27.1 - 8/6/2019
+* Modified 11 symbol icons
+	* Fixed inconsistencies with line weight for "light" symbol icons
 ## v1.27.0 - 7/29/2019
 * 1 New Icon added
 	* Fit to Height - Used within Enterprise Document Management Viewer to allow users to fit open PDF(s) to the height of the page.
