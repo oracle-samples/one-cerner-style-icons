@@ -1,8 +1,14 @@
 One Cerner Style Icons Changelog
 =========
+## v.1.27.2 - 9/21/2019
+* Updated Do Not Disturb Icon
+	* Redesign of existing icon 
+		* Do Not Disturb - Allows users to set Do Not Disturb ad-hoc (short term, frequent change). Used within CareAware Connect
+		
 ## v1.27.1 - 8/6/2019
 * Modified 11 symbol icons
 	* Fixed inconsistencies with line weight for "light" symbol icons
+	
 ## v1.27.0 - 7/29/2019
 * 1 New Icon added
 	* Fit to Height - Used within Enterprise Document Management Viewer to allow users to fit open PDF(s) to the height of the page.
