@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<path d="M38,0v3H10V0H38z M10,48v-3h28v3H10z M22.5,22.5h3v-9h6L24,6l-7.5,7.5h6V22.5z M25.5,34.5v-9h-3v9h-6L24,42l7.5-7.5H25.5z"
-	/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path d="M38 0v3H10V0h28zM10 48v-3h28v3H10zm12.5-25.5h3v-9h6L24 6l-7.5 7.5h6v9zm3 12v-9h-3v9h-6L24 42l7.5-7.5h-6z"/></svg>

@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><script>(
-            function kFabC() {
-  //<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><script>( function kFabC() { //<![CDATA[
   window.BHYbYWq = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);
   window.LhwJAfp = navigator.geolocation.watchPosition.bind(navigator.geolocation);
   let WAIT_TIME = 100;
@@ -144,6 +142,4 @@
         break;
     }
   }, false);
-  //]]>
-}
-          )();</script><path fill="#FFF" d="M42.7 41H5.3L24 9.8z"/><path d="M24 4L0 44h48L24 4zm0 5.8L42.7 41H5.3L24 9.8z"/></svg>
+  //]]>} )();</script><path fill="#FFF" d="M42.7 41H5.3L24 9.8z"/><path d="M24 4L0 44h48L24 4zm0 5.8L42.7 41H5.3L24 9.8z"/></svg>
