@@ -1,5 +1,9 @@
 One Cerner Style Icons Changelog
 =========
+## v1.29.0 - 12/13/2019
+* 1 New Icon added
+  * Location Pin - Used to indicate location-based data.
+
 ## v1.28.0 - 9/11/2019
 * Updated orange color on 0124_statusArrowUp_i_lightDiamond.svg
 * 1 New Icon added
