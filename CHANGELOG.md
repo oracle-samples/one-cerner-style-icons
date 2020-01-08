@@ -1,5 +1,14 @@
 One Cerner Style Icons Changelog
 =========
+## v1.29.3 - 1/8/2020
+* Updated Person Door icon
+
+## v1.29.2 - 12/13/2019
+* Fixed viewBox clipping on light versions of icons
+
+## v1.29.1 - 12/13/2019
+* Updated SVG icons to consistently use viewBox for sizing
+
 ## v1.29.0 - 12/13/2019
 * 1 New Icon added
   * Location Pin - Used to indicate location-based data.
