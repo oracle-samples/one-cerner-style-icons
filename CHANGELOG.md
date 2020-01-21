@@ -1,5 +1,8 @@
 One Cerner Style Icons Changelog
 =========
+## v1.30.1 - 1/21/2020
+* Fixed error in .csv file
+
 ## v1.30.0 - 1/21/2020
 * Deprecated the `pause` icon. Replace instances with the `mediaPause` icon.
 * Added six media player icons:
