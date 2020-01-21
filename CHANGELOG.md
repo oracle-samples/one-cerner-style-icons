@@ -1,5 +1,15 @@
 One Cerner Style Icons Changelog
 =========
+## v1.30.0 - 1/21/2020
+* Deprecated the `pause` icon. Replace instances with the `mediaPause` icon.
+* Added six media player icons:
+  * Play
+  * Pause
+  * Stop
+  * Record
+  * Fast Forward
+  * Rewind
+
 ## v1.29.3 - 1/8/2020
 * Updated Person Door icon
 
