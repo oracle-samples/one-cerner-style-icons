@@ -1,5 +1,9 @@
 One Cerner Style Icons Changelog
 =========
+## v1.31.0 - 5/12/2020
+* Added Bluetooth icon
+* Fixed formatting errors in README.md
+
 ## v1.30.1 - 1/21/2020
 * Fixed error in .csv file
 
