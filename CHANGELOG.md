@@ -2,6 +2,10 @@
 
 ----
 
+## v1.32.1 - 8/5/20
+
+* Fixed character encoding issues in the CSV file.
+
 ## v1.32.0 - 7/30/20
 
 * Added eight new icons:
