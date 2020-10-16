@@ -2,6 +2,12 @@
 
 ----
 
+## v1.33.0 - 10/16/20
+
+* Added two new icons:
+  * Medication tablet (filled)
+  * Medication tablet (outlined)
+  
 ## v1.32.1 - 8/5/20
 
 * Fixed character encoding issues in the CSV file.
