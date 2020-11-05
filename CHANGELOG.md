@@ -2,11 +2,18 @@
 
 ----
 
+## v1.34.0 - 11/05/20
+
+* Added three new icons:
+  * Hazard Low
+  * Half Medication Tablet (filled)
+  * Half Medication Tablet (outlined)
+
 ## v1.33.0 - 10/16/20
 
 * Added two new icons:
-  * Medication tablet (filled)
-  * Medication tablet (outlined)
+  * Medication Tablet (filled)
+  * Medication Tablet (outlined)
   
 ## v1.32.1 - 8/5/20
 
