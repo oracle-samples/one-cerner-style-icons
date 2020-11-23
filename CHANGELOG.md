@@ -2,6 +2,10 @@
 
 ----
 
+## v1.35.0 - 11/23/20
+
+* Changed the fill color of `0124_statusArrowUp_i_lightDiamond.svg`
+
 ## v1.34.0 - 11/05/20
 
 * Added three new icons:
