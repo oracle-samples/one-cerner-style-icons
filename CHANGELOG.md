@@ -2,6 +2,13 @@
 
 ----
 
+## v1.36.0 - 01/25/21
+
+* Added Waveform icon
+* Updated copyright date in `NOTICE.txt`
+* Updated copyright date in `README.md`
+* Cleaned up formatting in `CONTRIBUTING.md`
+
 ## v1.35.0 - 11/23/20
 
 * Changed the fill color of `0124_statusArrowUp_i_lightDiamond.svg`
