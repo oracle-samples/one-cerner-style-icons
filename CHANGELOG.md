@@ -2,6 +2,14 @@
 
 ----
 
+## v1.37.0 - 02/02/21
+
+* Added four new icons:
+  * Status Positive
+  * Status Positive White
+  * Status Positive Low Light
+  * Status Positive White Low Light
+
 ## v1.36.0 - 01/25/21
 
 * Added Waveform icon
