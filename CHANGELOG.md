@@ -2,6 +2,10 @@
 
 ----
 
+## v1.38.0 - 03/19/21
+
+* Added Confidential icon
+
 ## v1.37.0 - 02/02/21
 
 * Added four new icons:
