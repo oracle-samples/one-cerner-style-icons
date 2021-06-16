@@ -2,6 +2,14 @@
 
 ----
 
+## 1.39.0 - 06/16/21
+
+* Updated Bluetooth icon
+* Added three new icons
+  * Bluetooth Slash
+  * Wifi
+  * Wifi Slash
+
 ## v1.38.0 - 03/19/21
 
 * Added Confidential icon
