@@ -2,6 +2,10 @@
 
 ----
 
+## 1.40.0 - 06/18/21
+
+* Updated Knurling icon
+
 ## 1.39.0 - 06/16/21
 
 * Updated Bluetooth icon
