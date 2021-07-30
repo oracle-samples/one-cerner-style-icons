@@ -2,6 +2,12 @@
 
 ----
 
+## 1.41.0 - 07/30/21
+
+* Added two new icons
+  * Broken Image
+  * Broken Link (or Unlink)
+
 ## 1.40.0 - 06/18/21
 
 * Updated Knurling icon
@@ -11,8 +17,8 @@
 * Updated Bluetooth icon
 * Added three new icons
   * Bluetooth Slash
-  * Wifi
-  * Wifi Slash
+  * WiFi
+  * WiFi Slash
 
 ## v1.38.0 - 03/19/21
 
