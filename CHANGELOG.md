@@ -2,6 +2,10 @@
 
 ----
 
+## 1.41.2 - 07/30/21
+
+* Fixed display issue with WiFi Slash's viewbox
+
 ## 1.41.1 - 07/30/21
 
 * Fixed typo in CSV file
