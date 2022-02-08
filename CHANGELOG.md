@@ -2,6 +2,10 @@
 
 ---
 
+## 1.42.1 - 02/08/22
+
+- Fixed typo in CSV file
+
 ## 1.42.0 - 02/08/22
 
 - Added four new icons
