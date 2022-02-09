@@ -2,6 +2,13 @@
 
 ---
 
+## 1.43.0 - 02/09/22
+
+- Appended new line to end of each SVG file
+- Removed extraneous scripts from SVG files that had scripts injected by Adobe Illustrator
+- Optimized all SVG files using SVGO
+- Updated all copyright info to reflect current year
+
 ## 1.42.1 - 02/08/22
 
 - Fixed typo in CSV file
