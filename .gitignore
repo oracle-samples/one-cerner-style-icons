@@ -36,3 +36,8 @@
 ehthumbs.db
 Thumbs.db
 
+# Editor-generated folders #
+############################
+.vscode
+.nova
+
