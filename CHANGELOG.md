@@ -2,6 +2,10 @@
 
 ---
 
+## 1.45.0 - 03/24/22
+
+- Reinstated The WiFi slash fix from v1.41.2 that didn't stick.
+
 ## 1.44.0 - 03/18/22
 
 - Added Person Connection icon
