@@ -2,6 +2,12 @@
 
 ---
 
+## 1.46.0 - 04/13/22
+
+- Added two icons
+  - Trending Down
+  - Trending Up
+
 ## 1.45.0 - 03/24/22
 
 - Reinstated The WiFi slash fix from v1.41.2 that didn't stick.
