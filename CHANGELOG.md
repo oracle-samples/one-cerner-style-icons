@@ -2,6 +2,10 @@
 
 ---
 
+## 1.46.1 - 05/02/22
+
+- Fixed labelling errors on trending up/down icons
+
 ## 1.46.0 - 04/13/22
 
 - Added two icons
