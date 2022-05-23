@@ -2,6 +2,11 @@
 
 ---
 
+## 1.47.0 - 05/23/22
+
+- Removed colored static favorite star in favor of using the themeable variant of the star icon
+  - Consumers that are currently using the static icon should change their reference to the themeable variant, as the duplicate static replacement will be removed at some point.
+
 ## 1.46.1 - 05/02/22
 
 - Fixed labelling errors on trending up/down icons
