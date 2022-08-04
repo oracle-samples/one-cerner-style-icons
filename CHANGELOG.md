@@ -2,6 +2,10 @@
 
 ---
 
+## 1.48.0 - 08/04/22
+
+- Added No Results icon
+
 ## 1.47.0 - 05/23/22
 
 - Removed colored static favorite star in favor of using the themeable variant of the star icon
