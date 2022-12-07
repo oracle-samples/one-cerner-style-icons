@@ -2,6 +2,10 @@
 
 ---
 
+## 1.49.0 - 12/07/22
+
+- Added Nav Stack Up icon
+
 ## 1.48.0 - 08/04/22
 
 - Added No Results icon
