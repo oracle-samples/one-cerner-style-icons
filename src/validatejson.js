@@ -52,6 +52,7 @@ const checkForAliasCollisions = (iconData) => {
   }
 }
 
+// Main function
 const validateData = (iconData) => {
   checkForAliasCollisions(iconData);
   if(errorsExist){
