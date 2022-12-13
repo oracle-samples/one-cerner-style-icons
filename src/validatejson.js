@@ -70,4 +70,4 @@ fs.readFile(__dirname + '/CernerOneIcons.json', 'utf-8', (err, data) => {
     const iconData = JSON.parse(data);
     validateData(iconData);
   }
-})
+});
