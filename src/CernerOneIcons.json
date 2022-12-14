@@ -6930,7 +6930,7 @@
     "aliases": [],
     "secretAliases": [
       {
-        "alias": "Caution",
+        "alias": "CautionR",
         "usage": "Caution: Consult Accompanying Documents",
         "sets": [
           "Restricted"
