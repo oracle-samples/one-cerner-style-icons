@@ -21,14 +21,15 @@
 
 - `alias` - The alias that will be used to consume the icon. In Terra, these will be prefixed with `Icon` or `RestrictedIcon` in Terra. For Example, an alias with `"alias": "Manufacturer"` would be imported from Terra Icon as `IconManufacturer` or, if the image has `"restricted": true`, it would be imported as `RestrictedIconManufacturer`
 - `usage` - this is a free text field that can optionally give guidance on how to use the icon/alias.
-- `sets` - 
-- `isAction` - whether the icon can be used to perform an action
-- `isStatus` - whether the icon can be used to indicate a status
-- `isToggle` - whether the icon is part of a toggle set.
-- `isInteraction` - whether the icon can be used to indicate interactivity
-- `isColorable` whether the icon has elements that can be colored dynamically by changing its container's `color` property.
-- `isLabelRequired` - whether the icon needs to be used with a label
-- `isBidirectional` - whether the icon is bidirectional
+- `sets` - an array of strings indicating which icon sets the alias belongs to
+- `characteristics` - an array of strings indicating the intended uses for the icon/alias. Available strings include:
+  - `isAction` - whether the icon can be used to perform an action
+  - `isStatus` - whether the icon can be used to indicate a status
+  - `isToggle` - whether the icon is part of a toggle set.
+  - `isInteraction` - whether the icon can be used to indicate interactivity
+  - `isColorable` whether the icon has elements that can be colored dynamically by changing its container's `color` property.
+  - `isLabelRequired` - whether the icon needs to be used with a label
+  - `isBidirectional` - whether the icon is bidirectional
 
 ### Search Terms
 
