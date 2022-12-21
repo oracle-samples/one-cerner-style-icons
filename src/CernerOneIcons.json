@@ -6559,6 +6559,27 @@
     "secretAliases": []
   },
   {
+    "descriptiveName": "Nav Stackup",
+    "fileName": "0226_NavStackUp_Icon_a_48.svg",
+    "searchTerms": [
+      "navigation",
+      "stack",
+      "up"
+    ],
+    "restricted": false,
+    "aliases": [
+      {
+        "alias": "NavStackUp",
+        "usage": "",
+        "sets": [],
+        "characteristics": [
+          "isColorable"
+        ]
+      }
+    ],
+    "secretAliases": []
+  },
+  {
     "descriptiveName": "Circle Solid",
     "fileName": "S_0001_circle.svg",
     "searchTerms": [],
