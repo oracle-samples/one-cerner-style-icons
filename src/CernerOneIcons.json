@@ -4745,68 +4745,6 @@
     "secretAliases": []
   },
   {
-    "descriptiveName": "Audio With Two Sound Lines",
-    "fileName": "0167_speakerCurvedLines_a.svg",
-    "searchTerms": [
-      "audio",
-      "volume",
-      "increase",
-      "up",
-      "sound",
-      "enabled",
-      "loud"
-    ],
-    "restricted": false,
-    "aliases": [
-      {
-        "alias": "Audio",
-        "usage": "audio",
-        "sets": [
-          "Media Controls"
-        ],
-        "characteristics": [
-          "isToggle",
-          "isColorable"
-        ]
-      },
-      {
-        "alias": "VolumeIncrease",
-        "usage": "audio",
-        "sets": [
-          "Media Controls"
-        ],
-        "characteristics": [
-          "isToggle",
-          "isColorable"
-        ]
-      },
-      {
-        "alias": "AudioIncrease",
-        "usage": "audio",
-        "sets": [
-          "Media Controls"
-        ],
-        "characteristics": [
-          "isToggle",
-          "isColorable"
-        ]
-      }
-    ],
-    "secretAliases": [
-      {
-        "alias": "AudioSetIncrease",
-        "usage": "audio",
-        "sets": [
-          "Media Controls"
-        ],
-        "characteristics": [
-          "isToggle",
-          "isColorable"
-        ]
-      }
-    ]
-  },
-  {
     "descriptiveName": "External Link",
     "fileName": "0168_boxArrowDiagonal_a.svg",
     "searchTerms": [
@@ -6365,7 +6303,7 @@
   },
   {
     "descriptiveName": "Audio No Lines",
-    "fileName": "0218_VolumeSet_a_48_Audio.svg",
+    "fileName": "0218_Audio_t_48.svg",
     "searchTerms": [
       "audio",
       "quiet",
@@ -6401,7 +6339,7 @@
   },
   {
     "descriptiveName": "Audio One Radiating Line",
-    "fileName": "0218_VolumeSet_a_48_DecreasedVolume.svg",
+    "fileName": "0219_Audio_DecreaseVolume_a_48.svg",
     "searchTerms": [
       "audio",
       "quiet",
@@ -6434,6 +6372,56 @@
           "Media Controls"
         ],
         "characteristics": []
+      }
+    ],
+    "secretAliases": []
+  },
+  {
+    "descriptiveName": "Audio With Two Sound Lines",
+    "fileName": "0220_Audio_IncreaseVolume_a_48.svg",
+    "searchTerms": [
+      "audio",
+      "volume",
+      "increase",
+      "up",
+      "sound",
+      "enabled",
+      "loud"
+    ],
+    "restricted": false,
+    "aliases": [
+      {
+        "alias": "Audio",
+        "usage": "audio",
+        "sets": [
+          "Media Controls"
+        ],
+        "characteristics": [
+          "isToggle",
+          "isColorable"
+        ]
+      },
+      {
+        "alias": "VolumeIncrease",
+        "usage": "audio",
+        "sets": [
+          "Media Controls"
+        ],
+        "characteristics": [
+          "isToggle",
+          "isColorable"
+        ]
+      },
+      {
+        "alias": "AudioIncrease",
+        "usage": "audio",
+        "sets": [
+          "Media Controls"
+        ],
+        "characteristics": [
+          "isToggle",
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6839,7 +6827,7 @@
   },
   {
     "descriptiveName": "Triangle Down Outline Triangle Inverted Outline",
-    "fileName": "src/icons/S_0010_triangleDown_light.svg",
+    "fileName": "S_0010_triangleDown_light.svg",
     "searchTerms": [],
     "restricted": false,
     "aliases": [
@@ -6930,7 +6918,7 @@
     "aliases": [],
     "secretAliases": [
       {
-        "alias": "CautionR",
+        "alias": "Caution",
         "usage": "Caution: Consult Accompanying Documents",
         "sets": [
           "Restricted"
@@ -7017,7 +7005,7 @@
   },
   {
     "descriptiveName": "European Union Authorized Representative (Regulatory)",
-    "fileName": "R_ecRep.sv",
+    "fileName": "R_ecRep.svg",
     "searchTerms": [],
     "restricted": true,
     "aliases": [],
