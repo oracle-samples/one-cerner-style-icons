@@ -6539,6 +6539,26 @@
     "secretAliases": []
   },
   {
+    "descriptiveName": "No Results",
+    "fileName": "0225_noResults_i_48.svg",
+    "searchTerms": [
+      "no",
+      "results"
+    ],
+    "restricted": false,
+    "aliases": [
+      {
+        "alias": "NoResults",
+        "usage": "Used to indicate no results for timeframe",
+        "sets": ["results"],
+        "characteristics": [
+          "isColorable"
+        ]
+      }
+    ],
+    "secretAliases": []
+  },
+  {
     "descriptiveName": "Circle Solid",
     "fileName": "S_0001_circle.svg",
     "searchTerms": [],
