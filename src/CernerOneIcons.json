@@ -120,12 +120,11 @@
     "aliases": [],
     "secretAliases": [
       {
-        "alias": "iconNoRisk",
+        "alias": "NoRisk",
         "usage": "UK Risk Indicator - no risk",
         "sets": [],
         "characteristics": [
-          "isStatus",
-          "isColorable"
+          "isStatus"
         ]
       },
       {
@@ -133,8 +132,7 @@
         "usage": "UK Risk Indicator - no risk",
         "sets": [],
         "characteristics": [
-          "isStatus",
-          "isColorable"
+          "isStatus"
         ]
       }
     ]
@@ -863,7 +861,7 @@
         ]
       },
       {
-        "alias": "ChevronNext",
+        "alias": "Next",
         "usage": "forward/next",
         "sets": [
           "chevrons"
@@ -1250,17 +1248,13 @@
         "alias": "EllipsesVertical",
         "usage": "more options available",
         "sets": [],
-        "characteristics": [
-          "isColorable"
-        ]
+        "characteristics": []
       },
       {
         "alias": "Rollup",
         "usage": "more options available",
         "sets": [],
-        "characteristics": [
-          "isColorable"
-        ]
+        "characteristics": []
       }
     ],
     "secretAliases": []
@@ -1279,6 +1273,15 @@
         "characteristics": [
           "isStatus",
           "isColorable",
+          "isLabelRequired"
+        ]
+      },
+      {
+        "alias": "HighPriority",
+        "usage": "",
+        "sets": [],
+        "characteristics": [
+          "isStatus",
           "isLabelRequired"
         ]
       }
@@ -1313,7 +1316,7 @@
     "restricted": false,
     "aliases": [
       {
-        "alias": "Caution",
+        "alias": "HazardCaution",
         "usage": "caution (hazard medium)",
         "sets": [],
         "characteristics": [
@@ -1523,8 +1526,7 @@
         "usage": "error",
         "sets": [],
         "characteristics": [
-          "isStatus",
-          "isColorable"
+          "isStatus"
         ]
       }
     ]
@@ -2847,7 +2849,8 @@
         "usage": "Content loading, should spin",
         "sets": [],
         "characteristics": [
-          "isColorable"
+          "isColorable",
+          "spins"
         ]
       }
     ],
@@ -3337,8 +3340,7 @@
           "results"
         ],
         "characteristics": [
-          "isStatus",
-          "isColorable"
+          "isStatus"
         ]
       }
     ],
@@ -3363,8 +3365,7 @@
           "results"
         ],
         "characteristics": [
-          "isStatus",
-          "isColorable"
+          "isStatus"
         ]
       }
     ],
@@ -4474,7 +4475,7 @@
   },
   {
     "descriptiveName": "Visible",
-    "fileName": "0159_eye_i_slash.svg",
+    "fileName": "0159_eye_a.svg",
     "searchTerms": [
       "visible",
       "visibility",
@@ -4488,8 +4489,7 @@
         "usage": "show characters",
         "sets": [],
         "characteristics": [
-          "isToggle",
-          "isColorable"
+          "isToggle"
         ]
       }
     ],
@@ -4499,8 +4499,7 @@
         "usage": "show characters",
         "sets": [],
         "characteristics": [
-          "isToggle",
-          "isColorable"
+          "isToggle"
         ]
       }
     ]
@@ -4532,7 +4531,8 @@
         "usage": "view, visible",
         "sets": [],
         "characteristics": [
-          "isToggle"
+          "isToggle",
+          "isColorable"
         ]
       }
     ]
@@ -5333,7 +5333,18 @@
         ]
       }
     ],
-    "secretAliases": []
+    "secretAliases": [
+      {
+        "alias": "RefusedSlot",
+        "usage": "",
+        "sets": [],
+        "characteristics": [
+          "isStatus",
+          "isColorable",
+          "isLabelRequired"
+        ]
+      }
+    ]
   },
   {
     "descriptiveName": "Out of Network",
@@ -6321,7 +6332,8 @@
           "Media Controls"
         ],
         "characteristics": [
-          "isLabelRequired"
+          "isLabelRequired",
+          "isColorable"
         ]
       },
       {
@@ -6331,7 +6343,8 @@
           "Media Controls"
         ],
         "characteristics": [
-          "isLabelRequired"
+          "isLabelRequired",
+          "isColorable"
         ]
       }
     ],
@@ -6355,7 +6368,9 @@
         "sets": [
           "Media Controls"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       },
       {
         "alias": "MediaVolumeOne",
@@ -6377,16 +6392,12 @@
     "secretAliases": []
   },
   {
-    "descriptiveName": "Audio With Two Sound Lines",
-    "fileName": "0220_Audio_IncreaseVolume_a_48.svg",
+    "descriptiveName": "Audio",
+    "fileName": "0167_speakerCurvedLines_a.svg",
     "searchTerms": [
       "audio",
       "volume",
-      "increase",
-      "up",
-      "sound",
-      "enabled",
-      "loud"
+      "sound"
     ],
     "restricted": false,
     "aliases": [
@@ -6400,7 +6411,24 @@
           "isToggle",
           "isColorable"
         ]
-      },
+      }
+    ],
+    "secretAliases": []
+  },
+  {
+    "descriptiveName": "Audio With Two Sound Lines",
+    "fileName": "0220_Audio_IncreaseVolume_a_48.svg",
+    "searchTerms": [
+      "audio",
+      "volume",
+      "increase",
+      "up",
+      "sound",
+      "enabled",
+      "loud"
+    ],
+    "restricted": false,
+    "aliases": [
       {
         "alias": "VolumeIncrease",
         "usage": "audio",
@@ -6418,6 +6446,15 @@
         "sets": [
           "Media Controls"
         ],
+        "characteristics": [
+          "isToggle",
+          "isColorable"
+        ]
+      },
+      {
+        "alias": "VolumeSetIncrease",
+        "usage": "audio",
+        "sets": [],
         "characteristics": [
           "isToggle",
           "isColorable"
@@ -6444,7 +6481,9 @@
         "sets": [
           "Media Controls"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       },
       {
         "alias": "MuteMedia",
@@ -6452,7 +6491,9 @@
         "sets": [
           "Media Controls"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       },
       {
         "alias": "AudioDisabled",
@@ -6460,7 +6501,9 @@
         "sets": [
           "Media Controls"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": [
@@ -6470,7 +6513,9 @@
         "sets": [
           "Media Controls"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -6488,6 +6533,7 @@
         "usage": "person connection",
         "sets": [],
         "characteristics": [
+          "isColorable",
           "isStatus"
         ]
       }
@@ -6510,7 +6556,8 @@
         "usage": "Upward trend",
         "sets": [],
         "characteristics": [
-          "isStatus"
+          "isStatus",
+          "isColorable"
         ]
       }
     ],
@@ -6532,7 +6579,8 @@
         "usage": "Downward trend",
         "sets": [],
         "characteristics": [
-          "isStatus"
+          "isStatus",
+          "isColorable"
         ]
       }
     ],
@@ -6564,14 +6612,17 @@
     "searchTerms": [
       "navigation",
       "stack",
-      "up"
+      "up",
+      "arrows"
     ],
     "restricted": false,
     "aliases": [
       {
-        "alias": "NavStackUp",
+        "alias": "NavStackup",
         "usage": "",
-        "sets": [],
+        "sets": [
+          "Navigation"
+        ],
         "characteristics": [
           "isColorable"
         ]
@@ -6591,7 +6642,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6608,7 +6661,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6623,7 +6678,9 @@
         "alias": "DiamondSymbol",
         "usage": "",
         "sets": [],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6640,7 +6697,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6657,7 +6716,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6674,7 +6735,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6691,7 +6754,9 @@
         "alias": "RectangleSymbol",
         "usage": "",
         "sets": [],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6708,7 +6773,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6725,7 +6792,9 @@
         "alias": "SquareSymbol",
         "usage": "",
         "sets": [],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6742,7 +6811,9 @@
         "alias": "SquareSymbolLight",
         "usage": "",
         "sets": [],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6759,7 +6830,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6776,7 +6849,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6793,7 +6868,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6810,7 +6887,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6827,7 +6906,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6844,7 +6925,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6861,7 +6944,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6873,7 +6958,7 @@
     "restricted": false,
     "aliases": [
       {
-        "alias": "TriangleSymbolDownLight",
+        "alias": "TriangleDownSymbolLight",
         "usage": "",
         "sets": [
           "Carbon Graphs"
@@ -6895,7 +6980,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6912,7 +6999,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6929,7 +7018,9 @@
         "sets": [
           "Carbon Graphs"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ],
     "secretAliases": []
@@ -6947,7 +7038,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -6964,7 +7057,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -6981,7 +7076,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -6998,7 +7095,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -7015,7 +7114,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -7032,7 +7133,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       },
       {
         "alias": "CEMarking",
@@ -7040,7 +7143,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       }
     ]
   },
@@ -7057,7 +7162,9 @@
         "sets": [
           "Restricted"
         ],
-        "characteristics": []
+        "characteristics": [
+          "isColorable"
+        ]
       },
       {
         "alias": "ECRep",
@@ -7065,7 +7172,874 @@
         "sets": [
           "Restricted"
         ],
+        "characteristics": [
+          "isColorable"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "Pause",
+    "fileName": "0166_pause_a.svg",
+    "searchTerms": [],
+    "restricted": false,
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "Pause",
+        "usage": "",
+        "sets": [],
+        "characteristics": [
+          "isColorable",
+          "deprecated"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "Reload",
+    "fileName": "0152_circleArrow_a.svg",
+    "searchTerms": [],
+    "restricted": false,
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "Reload",
+        "usage": "",
+        "sets": [],
+        "characteristics": [
+          "isColorable",
+          "deprecated"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "Status Positive White",
+    "fileName": "0214_statusPositive_i_lightDiamondWhite.svg",
+    "searchTerms": [],
+    "restricted": false,
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "StatusPositiveWhite",
+        "usage": "",
+        "sets": [],
         "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "Thin Diamond Symbol",
+    "fileName": "S_0008_thinDiamond.svg",
+    "searchTerms": [],
+    "restricted": false,
+    "aliases": [
+      {
+        "alias": "ThinDiamondSymbol",
+        "usage": "",
+        "sets": [
+          "Carbon Graphs"
+        ],
+        "characteristics": [
+          "isColorable"
+        ]
+      }
+    ],
+    "secretAliases": []
+  },
+  {
+    "descriptiveName": "Thin Diamond Symbol Light",
+    "fileName": "S_0008_thinDiamond_light.svg",
+    "searchTerms": [],
+    "restricted": false,
+    "aliases": [
+      {
+        "alias": "ThinDiamondSymbolLight",
+        "usage": "",
+        "sets": [
+          "Carbon Graphs"
+        ],
+        "characteristics": [
+          "isColorable"
+        ]
+      }
+    ],
+    "secretAliases": []
+  },
+  {
+    "descriptiveName": "success_low_light",
+    "fileName": "/LL_0003_check_i_heavyCircleGreen.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "SuccessLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "success_inverse",
+    "fileName": "/0003_check_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "SuccessInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": [],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "success_inverse_low_light",
+    "fileName": "/LL_0003_check_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "SuccessInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "noRisk_low_light",
+    "fileName": "/LL_0003_check_i_lightCircle.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "NoRiskLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "scheduled_low_light",
+    "fileName": "/LL_0024_calendar_check_i_heavyCircleGreen.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "ScheduledLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "alert_low_light",
+    "fileName": "/LL_0037_exclamation_i_heavyTriangleRed.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "AlertLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "warning_low_light",
+    "fileName": "/LL_0037_exclamation_i_heavyTriangleYellow.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "WarningLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "moderate_low_light",
+    "fileName": "/LL_0037_exclamation_i_lightCircleGray.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "ModerateLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "critical_low_light",
+    "fileName": "/LL_0037_exclamation_i_heavyDiamondRed.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "CriticalLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "critical_inverse",
+    "fileName": "/0037_exclamation_i_heavyDiamondWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "CriticalInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": [],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "critical_inverse_low_light",
+    "fileName": "/LL_0037_exclamation_i_heavyDiamondWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "CriticalInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "information_low_light",
+    "fileName": "/LL_0038_italic-i_i_heavyCircleBlue.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "InformationLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "information_inverse",
+    "fileName": "/0038_italic-i_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "InformationInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": [],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "information_inverse_low_light",
+    "fileName": "/LL_0038_italic-i_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "InformationInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "error_low_light",
+    "fileName": "/LL_0039_minus_i_heavyCircleRed.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "ErrorLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "incomplete_inverse",
+    "fileName": "/0041_x_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "IncompleteInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": ["low light"],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "incomplete_inverse_low_light",
+    "fileName": "/LL_0041_x_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "IncompleteInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "help_low_light",
+    "fileName": "/LL_0061_questionMark_i_heavyCircleBlue.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HelpLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "help_inverse",
+    "fileName": "/0061_questionMark_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HelpInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": [],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "help_inverse_low_light",
+    "fileName": "/LL_0061_questionMark_i_heavyCircleWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HelpInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "unexpected_low_light",
+    "fileName": "/LL_0061_questionMark_i_diamond_light.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "UnexpectedLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "dueSoon_low_light",
+    "fileName": "/LL_0084_stopwatch_exclamation_i_heavyDiamondYellow.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DueSoonLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "overDue_low_light",
+    "fileName": "/LL_0093_stopwatch_critical_i.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "OverDueLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "high_low_light",
+    "fileName": "/LL_0124_statusArrowUp_i_lightDiamond.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HighLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "high_inverse",
+    "fileName": "/0124_statusArrowUp_i_lightDiamondWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HighInverse",
+        "usage": "",
+        "deprecated": true,
+        "sets": [],
+        "characteristics": []
+      }
+    ]
+  },
+  {
+    "descriptiveName": "high_inverse_low_light",
+    "fileName": "/LL_0124_statusArrowUp_i_lightDiamondWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "HighInverseLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "low_low_light",
+    "fileName": "/LL_0124_statusArrowDown_i_lightDiamond.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "LowLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "lowRisk_low_light",
+    "fileName": "/LL_0124_arrowDown_i_lightCircle.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "LowRiskLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "abnormal_low_light",
+    "fileName": "/LL_0125_squiggle_i_lightDiamond.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "AbnormalLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "deviceCheck_low_light",
+    "fileName": "/LL_0130_device_check_i_heavyCircleGreen.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DeviceCheckLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "deviceAlert_low_light",
+    "fileName": "/LL_0131_device_exclamation_i_heavyTriangleRed.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DeviceAlertLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "diamond_low_light",
+    "fileName": "/LL_0136_diamond_i_purple.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DiamondLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "pharmacyReject_low_light",
+    "fileName": "/LL_0146_roundRectangleLinePlusCancel_a.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "PharmacyRejectLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "bedAssigned_low_light",
+    "fileName": "/LL_0170_checkBed_i_heavyCircleGreen.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "BedAssignedLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "dischargeComplete_low_light",
+    "fileName": "/LL_0171_checkdoorOpen_i_heavyCircleGreen.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DischargeCompleteLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "dischargeComingDue_low_light",
+    "fileName": "/LL_0172_exclamationDoorOpen_i_heavyTriangleYellow.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DischargeComingDueLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "dischargeOverDue_low_light",
+    "fileName": "/LL_0173_exclamationDoorOpen_i_heavyTriangleRed.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DischargeOverDueLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "drugDrug_low_light",
+    "fileName": "/LL_0179_pill_exclamation_i_heavyTriangleYellow.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "DrugDrugLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "statusPositive_low_light",
+    "fileName": "/LL_0213_statusPositive_i_lightDiamond.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "StatusPositiveLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
+      }
+    ]
+  },
+  {
+    "descriptiveName": "statusPositiveWhite_low_light",
+    "fileName": "/LL_0214_statusPositive_i_lightDiamondWhite.svg",
+    "searchTerms": [],
+    "HFguidance": "",
+    "aliases": [],
+    "secretAliases": [
+      {
+        "alias": "StatusPositiveWhiteLowLight",
+        "usage": "",
+        "deprecated": true,
+        "sets": [
+          "low light"
+        ],
+        "characteristics": [
+          "isLowLight"
+        ]
       }
     ]
   }
