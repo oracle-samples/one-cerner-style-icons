@@ -2,6 +2,14 @@
 
 ---
 
+## 1.50.0 - 02/21/23
+
+- Added four new icons
+  - Help (static)
+  - Help (themeable)
+  - Information (static)
+  - Information (themeable)
+
 ## 1.49.0 - 12/07/22
 
 - Added Nav Stack Up icon
