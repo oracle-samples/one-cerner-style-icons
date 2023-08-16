@@ -2,6 +2,13 @@
 
 ---
 
+## 1.51.0 - 08/16/23
+
+- Added three new icons
+  - Multiple Results, Normal
+  - Multiple Results, Not Normal
+  - Multiple Results, Critical
+
 ## 1.50.0 - 02/21/23
 
 - Added four new icons
