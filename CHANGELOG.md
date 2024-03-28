@@ -2,6 +2,11 @@
 
 ---
 
+## 1.52.0 - 03/28/24
+- Added two new icons
+  - Medication Tablet, Quarter (filled)
+  - Medication Tablet, Quarter (outline)
+
 ## 1.51.0 - 08/16/23
 
 - Added three new icons
