@@ -2,6 +2,9 @@
 
 ---
 
+## 1.53.0 - 05/01/24
+- Added Multiple Results, Corner
+
 ## 1.52.0 - 03/28/24
 - Added two new icons
   - Medication Tablet, Quarter (filled)
