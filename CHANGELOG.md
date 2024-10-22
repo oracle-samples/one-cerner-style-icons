@@ -2,6 +2,11 @@
 
 ---
 
+## 1.54.0 - 03/28/24
+- Added two new icons
+  - Medication Tablet, Three-Quarter (filled)
+  - Medication Tablet, Three-Quarter (outline)
+
 ## 1.53.0 - 05/01/24
 - Added Multiple Results, Corner
 
